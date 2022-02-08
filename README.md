@@ -1,2 +1,2 @@
-# HotorNot
+# HotOrNot
 Weather android app
